@@ -83,12 +83,3 @@ Document Link: https://docs.google.com/forms/d/1Ng_GmgsnWGAL06sjmTDXA6WhAcLn1ahD
 Tutorial Video Link: https://www.youtube.com/watch?v=uJn2SArkhvk
 
 ---
-
-### How to Run?
-Please Download Requirements:<br>
-pip install selenium helium python-dotenv
-
-Create .env file and Setting your Tradingview Account:<br>
-userEMAIL = "Your_TrainingView_Account_Email" / userPASSWORD = "Your_TrainingView_Account_Password"
-
----
